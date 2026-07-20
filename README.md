@@ -2,7 +2,9 @@
 div align="center">
 ₿ Chronos-2 BTC/USD Forecast Signal App
 
-Show Image Show Image Show Image Show Image Show Image
+<img width="1842" height="1002" alt="Choronos2_signal_generation_platform2" src="https://github.com/user-attachments/assets/6833d826-4ed7-4057-aaba-ffcdb7dc25f0" />
+<img width="1842" height="1002" alt="Choronos2_signal_generation_platform" src="https://github.com/user-attachments/assets/8f18129f-629c-4eea-8753-30e5c57f11ba" />
+
 
 <br/>
 
