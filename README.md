@@ -1,9 +1,6 @@
 # Choronos2-BTC-signals-
 # ₿ Chronos-2 BTC/USD Forecast Signal App
 
-<img width="1842" height="1002" alt="Choronos2_signal_generation_platform2" src="https://github.com/user-attachments/assets/6833d826-4ed7-4057-aaba-ffcdb7dc25f0" />
-<img width="1842" height="1002" alt="Choronos2_signal_generation_platform" src="https://github.com/user-attachments/assets/8f18129f-629c-4eea-8753-30e5c57f11ba" />
-
 
 <br/>
 
@@ -167,7 +164,8 @@ BUY / SELL / HOLD Signal
 
 ## 📸 App Preview
 
-> _Screenshots of the Streamlit dashboard, forecast charts, and signal outputs can be added here._
+<img width="1842" height="1002" alt="Choronos2_signal_generation_platform2" src="https://github.com/user-attachments/assets/6833d826-4ed7-4057-aaba-ffcdb7dc25f0" />
+<img width="1842" height="1002" alt="Choronos2_signal_generation_platform" src="https://github.com/user-attachments/assets/8f18129f-629c-4eea-8753-30e5c57f11ba" />
 
 ---
 
